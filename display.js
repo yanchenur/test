@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         星河生命周期显示
 // @namespace    http://tampermonkey.net/
-// @version      0.8
+// @version      0.9
 // @description  捕获请求头和负载，使用 fetch 发送请求并打印响应
 // @match        *://rmt.jxrtv.com:82/*
 // @grant        none
