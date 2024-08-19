@@ -1,8 +1,7 @@
-
 // ==UserScript==
 // @name         加密获取下载地址
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.2
 // @description  捕获请求头和负载，并重新发送请求，生成带密码保护的悬浮下载按钮，密码输入用 * 号显示
 // @match        *://rmt.jxrtv.com:82/*
 // @grant        GM_xmlhttpRequest
