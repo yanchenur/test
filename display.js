@@ -136,7 +136,7 @@ function displayResourceData(data) {
         overlay.style.color = 'white';
         overlay.style.padding = '5px';
         overlay.style.boxSizing = 'border-box';
-        overlay.style.zIndex = '1'; // 确保在上层
+        overlay.style.zIndex = '2'; // 确保在上层
         overlay.style.pointerEvents = 'none'; // 不阻碍点击事件
         overlay.style.fontFamily = 'Arial, sans-serif'; // 修改字体样式
 
