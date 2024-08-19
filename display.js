@@ -5,8 +5,8 @@
 // @description  捕获请求头和负载，使用 fetch 发送请求并打印响应
 // @match        *://rmt.jxrtv.com:82/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/yanchenur/test/main/display.js
-// @downloadURL  https://raw.githubusercontent.com/yanchenur/test/main/display.js
+// @updateURL    https://raw.githubusercontent.com/yanchenur/test/new/display.js
+// @downloadURL  https://raw.githubusercontent.com/yanchenur/test/new/display.js
 // ==/UserScript==
 
 (function() {
